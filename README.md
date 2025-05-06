@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm SweetMilkZero
+
+<p>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=I%27m+SweetMilkZero" alt="typing-svg">
+</p>
+
+### I'm the owner of the minecraft server 2b2t.cc.
+
+![:name](https://count.getloli.com/@:SweetMilkZero?theme=capoo-1)
 
 <!--
 **SweetMilkZero/SweetMilkZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
